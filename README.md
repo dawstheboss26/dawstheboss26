@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dawstheboss26
 - 👀 I’m interested in ... Cybersecurity and AppDev
 - 🌱 I’m currently learning ... advanced C++, data structure concepts
-- 💞️ I’m looking to collaborate on ... anyting
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... dflatley@nd.edu
 
 <!---
